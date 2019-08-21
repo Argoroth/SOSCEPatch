@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
 	<identifier>SOSCEPatch</identifier>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<dependencies>
-		<li>Save Our Ship (Reloaded)</li>
-		<li>Combat Extended</li>
+		<li>1802846111</li> <!-- Save Our Ship (Reloaded) -->
+		<li>1631756268</li> <!-- Combat Extended -->
 	</dependencies>
 	<incompatibleWith />
 	<loadAfter>
-		<li>Save Our Ship (Reloaded)</li>
-		<li>Combat Extended</li>
+		<li>1802846111</li> <!-- Save Our Ship (Reloaded) -->
+		<li>1631756268</li> <!-- Combat Extended -->
 	</loadAfter>
-	<suggests>
-	</suggests>
+	<suggests />
 	<manifestUri>https://raw.githubusercontent.com/Argoroth/SOSCEPatch/master/About/Manifest.xml</manifestUri>
 	<downloadUri>https://github.com/Argoroth/SOSCEPatch/releases/latest</downloadUri>
 </Manifest>
