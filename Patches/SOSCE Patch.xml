@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName = "ShipInside_Turret_Autocannon"]/researchPrerequisites/li[2]</xpath>
+	<value>
+      <li>CE_HeavyTurret</li>
+	</value>
+  </Operation>
+</Patch>
