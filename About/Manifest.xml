@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
 	<identifier>SOSCEPatch</identifier>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<dependencies>
 		<li>Save Our Ship (Reloaded)</li>
 		<li>Combat Extended</li>
@@ -13,6 +13,6 @@
 	</loadAfter>
 	<suggests>
 	</suggests>
-	<manifestUri></manifestUri>
-	<downloadUri></downloadUri>
+	<manifestUri>https://raw.githubusercontent.com/Argoroth/SOSCEPatch/1.0.0/About/Manifest.xml</manifestUri>
+	<downloadUri>https://github.com/Argoroth/SOSCEPatch/releases/latest</downloadUri>
 </Manifest>
