@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+	<identifier>SOSCEPatch</identifier>
+	<version>1.0.0</version>
+	<dependencies>
+		<li>Save Our Ship (Reloaded)</li>
+		<li>Combat Extended</li>
+	</dependencies>
+	<incompatibleWith />
+	<loadAfter>
+		<li>Save Our Ship (Reloaded)</li>
+		<li>Combat Extended</li>
+	</loadAfter>
+	<suggests>
+	</suggests>
+	<manifestUri></manifestUri>
+	<downloadUri></downloadUri>
+</Manifest>
